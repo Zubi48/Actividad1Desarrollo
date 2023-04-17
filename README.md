@@ -1,4 +1,4 @@
-# Actividad 1 Desarrollos de videojuegos II
+# Actividad 1 Desarrollo de videojuegos II
 <h3>Integrantes:</h3>
 
 Carlos Iván Zubiate Galván <br>
