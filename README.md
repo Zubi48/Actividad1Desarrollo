@@ -1,5 +1,6 @@
 # Actividad 1 Desarrollos de videojuegos II
-#Integrantes
-Carlos Iván Zubiate Galván
-Daniel Huaman Florez
+<h3>Integrantes:</h3>
+
+Carlos Iván Zubiate Galván <br>
+Daniel Huaman Florez <br>
 Adrián Rangel Suárez
