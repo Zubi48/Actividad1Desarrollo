@@ -3,5 +3,5 @@
 
 Carlos Iván Zubiate Galván <br>
 Daniel Huaman Florez <br>
-Adrián Rangel Suárez
+Adrián Rangel Suárez <br>
 Jose Andres Zuluaga Ramirez
